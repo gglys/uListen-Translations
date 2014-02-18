@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+  <!-- Contributors -->
+  <!-- Shane Kloosterman -->
+  
+<resources>
+
+  <string name="app_name">uListen</string>
+  <string name="app_company">GooglyEyes</string>
+  
+  <!-- ActionBar -->
+  <string name="actionbar_search_hint">Zoeken op YouTube</string>
+  <string name="actionbar_search_button">Zoeken</string>
+  <string name="actionbar_options_button">Zoekopties</string>
+  
+  <!-- Fragments -->
+  <string name="fragment_title_about">Over uListen</string>
+  <string name="fragment_title_settings">Instellingen</string>
+  <string name="fragment_title_search_videos">Video\'s zoeken</string>
+  <string name="fragment_title_search_playlists">Zoeken in afspeellijsten</string>
+  <string name="fragment_title_content_playlists">Afspeellijst</string>
+  <string name="fragment_title_favorite_playlists">Afspeellijsten</string>
+  
+  <!-- Menu -->
+  <string name="menu_playlists">Afspeellijsten</string>
+  <string name="menu_settings">Instellingen</string>
+  <string name="menu_share">Deel uListen</string>
+  <string name="menu_upgrade">Geen reclame meer? Klik hier!</string>
+  <string name="menu_about">Over uListen</string>
+  
+  <!-- Dialogs -->
+  <string name="dialog_button_close">Sluiten</string>
+  <string name="dialog_button_yes">Ja</string>
+  <string name="dialog_button_no">Nee</string>
+  <string name="dialog_button_cancel">Annuleren</string>
+  <string name="dialog_button_backup">Backup</string>
+  <string name="dialog_button_restore">Herstellen</string>
+  <string name="dialog_button_save">Opslaan</string>
+  <string name="dialog_button_add">Toevoegen</string>
+  <string name="dialog_button_remove">Verwijderen</string>
+  
+  <!-- Toasts -->
+  <string name="toast_clear_cache">Cache gewist</string>
+  <string name="toast_backup_successful">Backup is voltooid</string>
+  <string name="toast_backup_failed">Backup mislukt</string>
+  <string name="toast_restore_successful">Herstellen is voltooid</string>
+  <string name="toast_restore_failed">Herstellen mislukt</string>
+  <string name="toast_add_favorites_same_name">Er bestaat al een afspeellijst met deze naam</string>
+  <string name="toast_add_favorites_playlist_updated_1">Afspeellijst succesvol bijgewerkt</string>
+  <string name="toast_add_favorites_playlist_updated_2">Afspeellijsten succesvol bijgewerkt</string>
+  <string name="toast_add_favorites_playlist_success">Afspeellijst succesvol toegevoegd</string>
+  <string name="toast_remove_favorites_playlist_success">Afspeellijst succesvol verwijderd</string>
+  <string name="toast_rename_favorites_playlist_success">Afspeellijst succesvol hernoemd</string>
+  <string name="toast_no_changes">Niks veranderd</string>
+  <string name="toast_app_back_button_pressed">Druk nogmaals om af te sluiten</string>
+  <string name="toast_sleep_timer_started">slaaptimer gestart</string>
+  <string name="toast_sleep_timer_finished">slaaptimer klaar</string>
+  <string name="toast_sleep_timer_remaining">slaap in:</string>
+  <string name="toast_share_successful">Delen voltooid</string>
+  <string name="toast_share_error1">Deel fout</string>
+  <string name="toast_share_error2">Deel fout: geen toestemming verkregen</string>
+  
+  <!-- Share -->
+  <string name="share_title">Delen via</string>
+  <string name="share_app_content">Je kunt nu de tijd en kostbare bandbreedte besparen door te luisteren naar YouTube-video\'s op je Android-toestel via uListen.</string>
+  <string name="share_app_facebook_caption">Beschikbaar op Google Play</string>
+  
+  <!-- About Fragment -->
+  <string name="about_app_terms_part1">Bij het gebruiken van deze applicatie accepteer je de</string>
+  <string name="about_app_terms_part2">Service Voorwaarden</string>
+  <string name="about_app_terms_part3"></string>
+  <string name="about_button_feedback">Beoordeel op Google Play</string>
+  <string name="about_button_email">Email ontwikkelaars</string>
+  <string name="about_hint_bug_report">Email de ontwikkelaars betreffende fout meldingen en suggesties.</string>
+  <string name="about_more_apps">Meer van GooglyEyes</string>
+  <string name="about_translation_part1">We willen iedereen bedanken die hebben deelgenomen of willen deelnemen, in</string>
+  <string name="about_translation_part2">het vertalen van uListen</string>
+  <string name="about_translation_part3"></string>
+  
+  <!-- Settings Fragment -->
+  <string name="settings_header_style">Stijl</string>
+  <string name="settings_content_theme">Gebruik donker thema</string>
+  <string name="settings_content_doubleback">Klik twee keer op terug om af te sluiten</string>
+  <string name="settings_header_stream">Stream</string>
+  <string name="settings_content_playback">Stream hoge kwaliteit geluid wanneer dit mogelijk is</string>
+  <string name="settings_content_notification">Sluitbare notificatie</string>
+  <string name="settings_header_sleep_timer">Slaaptimer</string>
+  <string name="settings_content_sleep_timer_duration">Duur</string>
+  <string name="settings_content_sleep_timer_last_song">Speel laatste nummer tot het einde</string>
+  <string name="settings_header_data">Gegevens</string>
+  <string name="settings_button_clear_cache">Wis Cache</string>
+  <string name="settings_button_clear_favorites">Wis afspeellijsten</string>
+  <string name="settings_button_backup">Backup</string>
+  <string name="settings_button_restore">Herstel</string>
+  <string name="settings_dialog_title_clear_playlists">Wis afspeellijsten</string>
+  <string name="settings_dialog_content_clear_playlists">Weet je zeker dat je de inhoud van de afspeellijsten wilt wissen?</string>
+  <string name="settings_dialog_title_backup">Backup</string>
+  <string name="settings_dialog_content_backup_part1">Backup je afspeellijsten en applicatie instellingen naar de externe opslag.</string>
+  <string name="settings_dialog_content_backup_part2">LET OP: Deze wijziging zal voorgaande backups overschrijven!</string>
+  <string name="settings_dialog_title_restore">Herstellen</string>
+  <string name="settings_dialog_content_restore_part1">Herstel je afspeellijsten en applicatie instellingen.</string>
+  <string name="settings_dialog_content_restore_part2">LET OP: Alle niet opgeslagen wijzigingen worden genegeerd.</string>
+  
+  <!-- Playlists Fragment -->
+  <string name="fragment_header_favorite_playlists_local">Lokale afspeellijsten</string>
+  <string name="fragment_header_favorite_playlists_youtube">YouTube afspeellijsten</string>
+  <string name="fragment_playlists_placeholder">Zoek op YouTube voor video\'s en afspeellijsten om ze toe te voegen aan je favorieten</string>
+  <string name="fragment_playlists_results_videos">Video\'s</string>
+  <string name="fragment_playlists_results_video">Video</string>
+  
+  <!-- Search Fragment -->
+  <string name="fragment_search_loading">Aan het zoeken</string>
+  <string name="fragment_search_no_results">Geen resultaten</string>
+  <string name="fragment_search_no_connection_part1">Geen internet verbinding</string>
+  <string name="fragment_search_no_connection_part2">Probeer het later nog eens.</string>
+  <string name="fragment_search_placeholder">Zoek op YouTube voor video\'s en afspeellijsten om te beginnen met kijken</string>
+  <string name="fragment_search_results_views">Bekeken</string>
+  
+  <!-- Rate Dialog -->
+  <string name="rate_dialog_title">Beoordeel uListen</string>
+  <string name="rate_dialog_content">"Als je geniet van het gebruik van uListen, neem dan een ​​moment om het te beoordelen. Bedankt voor je steun :) "</string>
+  <string name="rate_dialog_button_rate">Beoordeel</string>
+  <string name="rate_dialog_button_no">Nee, bedankt!</string>
+  <string name="rate_dialog_button_later">Later</string>
+  
+  
+  <!--  Service -->
+  <string name="toast_service_stream_error">stream error. probeer het later nogmaals</string>
+  
+  <!-- Dialog Create Playlist Favorites -->
+  <string name="dialog_favorites_new_playlist_title">Een nieuwe afspeellijst maken</string>
+  <string name="toast_create_playlist_success">Afspeellijst aangemaakt</string>
+  
+  <!-- Dialog Add Favorites -->
+  <string name="dialog_favorites_title">Afspeellijst opties</string>
+  <string name="dialog_favorites_no_playlist">Maak een nieuwe afspeellijst voordat je deze kunt toevoegen aan je favorieten</string>
+  <string name="dialog_favorites_add_youtube_playlist">Voeg deze afspeellijst toe aan je favorieten.</string>
+  <string name="dialog_favorites_playlist_already_added">Deze afspeellijst is al opgeslagen als je favoriet.</string>
+  
+  <!-- Dialog Options -->
+  <string name="dialog_options_title">Instellingen</string>
+  <string name="dialog_options_rename_hint">Hernoem de afspeellijst</string>
+  <string name="dialog_options_rename_header">Hernoemen</string>
+  <string name="dialog_button_delete">Verwijderen</string>
+  <string name="dialog_options_delete_title">Afspeellijst verwijderen</string>
+  <string name="dialog_options_edit_title">Afspeellijst aanpassen</string>
+  <string name="dialog_options_rename_title">Hernoem de afspeellijst</string>
+  <string name="dialog_options_delete_warning">Weet je zeker dat je deze afspeellijst wil verwijderen?</string>
+  
+  <!-- Share From Youtube -->
+  <string name="share_status_loading">Laden</string>
+  <string name="share_status_wrong_url">Ongeldige URL-indeling</string>
+  <string name="share_button_open_ulisten">Openen met uListen</string>
+  
+  <!-- Share Video Caption -->
+  <string name="share_video_title">Delen</string>
+  <string name="share_video_content_part1">Luister naar</string>
+  <string name="share_video_content_part2">via uListen.</string>
+  <string name="share_playlist_content">afspeellijst</string>
+  
+  <!-- Share Local Video -->
+  <string name="share_playlist_placeholder_processing">Verwerken...</string>
+  <string name="share_playlist_placeholder_processing_download">Video\'s verwerken. Dit kan een tijdje duren om te voltooien.</string>
+  <string name="share_playlist_placeholder_error">Kan geen lege afspeellijst delen</string>
+  <string name="share_playlist_placeholder_error_server">Kan de afspeellijst niet delen. Probeer het later nog eens.</string>
+
+  </resources>

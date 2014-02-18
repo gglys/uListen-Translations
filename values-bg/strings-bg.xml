@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+  <!-- Contributors -->
+  <!-- Martin Martinov -->
+
+<resources>
+
+    <string name="app_company">GooglyEyes</string>
+
+    <string name="actionbar_search_hint">Търсене в YouTube</string>
+
+    <string name="actionbar_search_button">Търсене</string>
+
+    <string name="actionbar_options_button">Опции за търсене</string>
+
+    <string name="fragment_title_about">За приложението</string>
+
+    <string name="fragment_title_settings">Настройки</string>
+
+    <string name="fragment_title_search_videos">Търсене на клипове</string>
+
+    <string name="fragment_title_search_playlists">Търсене на списъци</string>
+
+    <string name="fragment_title_content_playlists">Списък</string>
+
+    <string name="fragment_title_favorite_playlists">Списъци</string>
+
+    <string name="menu_playlists">Списъци</string>
+
+    <string name="menu_settings">Настройки</string>
+
+    <string name="menu_share">Споделяне</string>
+    
+    <string name="menu_upgrade">версия без реклами</string>
+
+    <string name="menu_about">За приложението</string>
+
+    <string name="dialog_button_close">Затваряне</string>
+
+    <string name="dialog_button_yes">Да</string>
+
+    <string name="dialog_button_no">Не</string>
+
+    <string name="dialog_button_cancel">Отказ</string>
+
+    <string name="dialog_button_backup">Архивиране</string>
+
+    <string name="dialog_button_restore">Възстановяване</string>
+
+    <string name="dialog_button_save">Запазване</string>
+
+    <string name="dialog_button_add">Добавяне</string>
+
+    <string name="dialog_button_remove">Премахване</string>
+
+    <string name="dialog_favorites_title">Опции за списъците</string>
+
+    <string name="dialog_favorites_add_youtube_playlist">Добавете този списък от YouTube към вашите любими.</string>
+
+    <string name="dialog_favorites_playlist_already_added">Този списък е вече запазен във вашите любими.</string>
+
+    <string name="dialog_options_title">Опции</string>
+
+    <string name="dialog_options_rename_hint">Преименуване на списъка</string>
+
+    <string name="dialog_options_rename_header">Преименуване</string>
+
+    <string name="toast_clear_cache">Кешът е изчистен</string>
+
+    <string name="toast_backup_successful">Успешно архивиране</string>
+
+    <string name="toast_backup_failed">Неуспешно архивиране</string>
+
+    <string name="toast_restore_successful">Успешно възстановяване</string>
+
+    <string name="toast_restore_failed">Неуспешно възстановяване</string>
+
+    <string name="toast_add_favorites_same_name">Вече съществува друг списък със същото име</string>
+
+    <string name="toast_add_favorites_playlist_updated_1">Списъкът е обновен успешно</string>
+
+    <string name="toast_add_favorites_playlist_updated_2">Списъкът е обновен успешно</string>
+
+    <string name="toast_add_favorites_playlist_success">Списъкът е добавен успешно</string>
+
+    <string name="toast_remove_favorites_playlist_success">Списъкът е премахнат успешно</string>
+
+    <string name="toast_rename_favorites_playlist_success">Списъкът е преименуван успешно</string>
+
+    <string name="toast_no_changes">Няма промени</string>
+
+    <string name="toast_app_back_button_pressed">Натиснете отново, за да излезете</string>
+
+    <string name="share_title">Споделяне чрез</string>
+
+    <string name="share_app_content">Сега можете да спестите време и ценен трафик като слушате видеоклипове от YouTube на вашето устройство с Android чрез uListen.</string>
+
+    <string name="share_app_facebook_caption">Налично в Google Play</string>
+
+    <string name="about_app_terms_part1">С използването на това приложение, вие се съгласявате с</string>
+
+    <string name="about_app_terms_part2">Условия за ползване</string>
+
+    <string name="about_button_feedback">Оценете в Google Play</string>
+
+    <string name="about_button_email">Изпратете ни имейл</string>
+
+    <string name="about_hint_bug_report">За предпочитане е да изпращате имейл на разработчиците за докладване на грешки и предложения.</string>
+
+    <string name="about_more_apps">Още от GooglyEyes</string>
+
+    <string name="about_translation_part1">Искаме да благодарим на всички, които участваха, или желаят да участват в</string>
+
+    <string name="about_translation_part2">превода на uListen</string>
+
+    <string name="settings_header_style">Стил</string>
+
+    <string name="settings_content_theme">Тъмна тема</string>
+
+    <string name="settings_header_stream">Поточно предаване</string>
+
+    <string name="settings_content_playback">Висококачествен звук, когато е възможно</string>
+
+    <string name="settings_content_notification">Отхвърлящо се известие</string>
+
+    <string name="settings_header_data">Данни</string>
+
+    <string name="settings_button_clear_cache">Изчистване на кеша</string>
+
+    <string name="settings_button_clear_favorites">Изчиств. на списъците</string>
+
+    <string name="settings_button_backup">Архивиране</string>
+
+    <string name="settings_button_restore">Възстановяване</string>
+
+    <string name="settings_dialog_title_clear_playlists">Изчистване на списъците</string>
+
+    <string name="settings_dialog_content_clear_playlists">Наистина ли искате да изчистите вашите списъци?</string>
+
+    <string name="settings_dialog_title_backup">Архивиране</string>
+
+    <string name="settings_dialog_content_backup_part1">Архивирайте вашите списъци и настройките на приложението във външната памет.</string>
+
+    <string name="settings_dialog_content_backup_part2">Тази операция ще отхвърли всички предишни архиви.</string>
+
+    <string name="settings_dialog_title_restore">Възстановяване</string>
+
+    <string name="settings_dialog_content_restore_part1">Възстановете вашите списъци и настройките на приложението.</string>
+
+    <string name="settings_dialog_content_restore_part2">Всички незаписани промени ще бъдат отхвърлени.</string>
+
+    <string name="fragment_header_favorite_playlists_local">Локални списъци</string>
+
+    <string name="fragment_header_favorite_playlists_youtube">Списъци от YouTube</string>
+
+    <string name="fragment_playlists_placeholder">Търсете в YouTube клипове и списъци, за да ги добавите към вашите любими</string>
+
+    <string name="fragment_playlists_results_videos">видеоклипа</string>
+
+    <string name="fragment_search_loading">Търсене</string>
+
+    <string name="fragment_search_no_results">Не са намерени резултати</string>
+
+    <string name="fragment_search_no_connection_part1">Няма връзка с интернет</string>
+
+    <string name="fragment_search_no_connection_part2">Опитайте отново по-късно</string>
+
+    <string name="fragment_search_placeholder">Търсете в YouTube клипове и списъци, за да започнете поточно предаване</string>
+
+    <string name="fragment_search_results_views">показвания</string>
+
+    <string name="rate_dialog_title">Оценете uListen</string>
+
+    <string name="rate_dialog_content">Ако ви харесва uListen, отделете един момент, за да оцените приложението. Благодарим ви за подкрепата :)</string>
+
+    <string name="rate_dialog_button_rate">Оценяване</string>
+
+    <string name="rate_dialog_button_no">Не, благодаря</string>
+
+    <string name="rate_dialog_button_later">По-късно</string>
+
+    <string name="toast_service_stream_error">Грешка в потока. Опитайте по-късно</string>
+
+    <string name="dialog_favorites_new_playlist_title">Създаване на нов списък</string>
+
+    <string name="toast_create_playlist_success">Списъкът е създаден успешно</string>
+
+    <string name="dialog_favorites_no_playlist">Преди да добавите видеоклипове към вашите любими, създайте нов списък.</string>
+
+    <string name="dialog_button_delete">Изтриване</string>
+
+    <string name="dialog_options_delete_title">Изтриване на списъка</string>
+
+    <string name="dialog_options_edit_title">Редактиране на списъка</string>
+
+    <string name="dialog_options_rename_title">Преименуване на списъка</string>
+
+    <string name="dialog_options_delete_warning">Наистина ли искате да изтриете този списък?</string>
+
+    <string name="share_status_loading">Зареждане</string>
+
+    <string name="share_status_wrong_url">Грешен формат на адреса</string>
+
+    <string name="share_button_open_ulisten">Отваряне в uListen</string>
+
+    <string name="share_video_title">Споделяне</string>
+
+    <string name="share_video_content_part1">Чуй</string>
+
+    <string name="share_video_content_part2">чрез uListen.</string>
+
+    <string name="share_playlist_content">списък</string>
+
+    <string name="share_playlist_placeholder_processing">Обработка...</string>
+
+    <string name="share_playlist_placeholder_processing_download">Обработка на видеоклиповете. Това може да отнеме известно време, за да завърши.</string>
+
+    <string name="share_playlist_placeholder_error">Не могат да се споделят празни списъци</string>
+
+    <string name="share_playlist_placeholder_error_server">Не може да се сподели списъкът. Опитайте по-късно.</string>
+</resources>

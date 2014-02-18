@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+  <!-- Contributors -->
+  <!-- GooglyEyes Team -->
+
+
+<resources>
+    <string name="app_name">يوليسن</string>
+
+    <string name="app_company">جوجلي ايز</string>
+
+    <string name="actionbar_search_hint">YouTube ابحث على</string>
+
+    <string name="actionbar_search_button">بحث</string>
+
+    <string name="actionbar_options_button">خيارات البحث</string>
+
+    <string name="fragment_title_about">حول</string>
+
+    <string name="fragment_title_settings">إعدادات</string>
+
+    <string name="fragment_title_search_videos">بحث عن فيديو</string>
+
+    <string name="fragment_title_search_playlists">بحث عن قوائم تشغيل</string>
+
+    <string name="fragment_title_content_playlists">قائمة تشغيل</string>
+
+    <string name="fragment_title_favorite_playlists">قوائم تشغيل</string>
+
+    <string name="menu_playlists">قوائم تشغيل</string>
+
+    <string name="menu_settings">الإعدادات</string>
+
+    <string name="menu_share">شارك</string>
+    
+    <string name="menu_upgrade">نسخة خالية من الإعلانات</string>
+
+    <string name="menu_about">حول</string>
+
+    <string name="dialog_button_close">أغلق</string>
+
+    <string name="dialog_button_yes">نعم</string>
+
+    <string name="dialog_button_no">كلا</string>
+
+    <string name="dialog_button_cancel">إلغاء</string>
+
+    <string name="dialog_button_backup">انسخ</string>
+
+    <string name="dialog_button_restore">استعيد</string>
+
+    <string name="dialog_button_save">احفظ</string>
+
+    <string name="dialog_button_add">اضف</string>
+
+    <string name="dialog_button_remove">انزع</string>
+
+    <string name="dialog_favorites_title">إعدادات قائمة التشغيل</string>
+
+    <string name="dialog_favorites_add_youtube_playlist">أضف هذه القائمة إلى قوائمك المفضلة</string>
+
+    <string name="dialog_favorites_playlist_already_added">هذه القائمة محفوظة في قوائمك المفضلة</string>
+
+    <string name="dialog_options_title">الخيارات</string>
+
+    <string name="dialog_options_rename_hint">تسمية القائمة</string>
+
+    <string name="dialog_options_rename_header">إعادة تسمية</string>
+
+    <string name="toast_clear_cache">ذاكرة التخزين المؤقت مسحت</string>
+
+    <string name="toast_backup_successful">تم النسخ بنجاح</string>
+
+    <string name="toast_backup_failed">فشل النسخ</string>
+
+    <string name="toast_restore_successful">تمت الإستعادة بنجاح</string>
+
+    <string name="toast_restore_failed">فشلت الإستعادة</string>
+
+    <string name="toast_add_favorites_same_name">قائمة تشغيل أخرى بنفس الإسم موجودة مسبقاً</string>
+
+    <string name="toast_add_favorites_playlist_updated_1">تم تحديث قائمة التشغيل بنجاح</string>
+
+    <string name="toast_add_favorites_playlist_updated_2">تم تحديث قوائم التشغيل بنجاح</string>
+
+    <string name="toast_add_favorites_playlist_success">تمت إضافة قائمة التشغيل بنجاح</string>
+
+    <string name="toast_remove_favorites_playlist_success">تمت إزالة قائمة التشغيل بنجاح</string>
+
+    <string name="toast_rename_favorites_playlist_success">تمت إعادة تسمية قائمة التشغيل بنجاح</string>
+
+    <string name="toast_no_changes">لم يتغير شيء</string>
+
+    <string name="toast_app_back_button_pressed">إضغط مرة أخرى للخروج</string>
+    
+    <string name="toast_sleep_timer_started">بدئ الإيقاف المؤقت</string>
+    <string name="toast_sleep_timer_finished">إنتهاء الإيقاف المؤقت</string>
+    <string name="toast_sleep_timer_remaining">إيقاف مؤقت في:</string>
+    <string name="toast_share_successful">نجاح المشاركة</string>
+    <string name="toast_share_error1">خطأ في المشاركة</string>
+    <string name="toast_share_error2">خطأ في المشاركة: لم يمنح الأذن</string>
+
+    <string name="share_title">شارك على</string>
+
+    <string name="share_app_content">يمكنك توفير وقتك الأن من خلال الإستماع إلى أشرطة فيديو يوتيوب على جهاز Android   عبر برنامج يوليسن</string>
+
+    <string name="share_app_facebook_caption">Google Play متوفر على</string>
+
+    <string name="about_app_terms_part1">باستخدام هذا البرنامج توافق على</string>
+
+    <string name="about_app_terms_part2">شروط الإستعمال العامة</string>
+
+    <string name="about_button_feedback">Play Store قيم على</string>
+
+    <string name="about_button_email">البريد الإلكتروني</string>
+
+    <string name="about_hint_bug_report">يفضل التواصل عبر البريد الإلكتروني لإعلان أي شوائب أو إقتراحات</string>
+
+    <string name="about_more_apps">المزيد من جوجلي ايز</string>
+
+    <string name="about_translation_part1">نود أن نشكر جميع الذين شاركوا، أو الذين يرغبوا في المشاركة، في</string>
+
+    <string name="about_translation_part2">ترجمة يوليسن</string>
+
+    <string name="settings_header_style">الشكل</string>
+
+    <string name="settings_content_theme">إستخدم الغطاء الداكن</string>
+    
+    <string name="settings_content_doubleback">إضغط على العودة مرتين لإنهاء البرنامج</string>
+    
+    <string name="settings_header_sleep_timer">إيقاف مؤقت</string>
+    <string name="settings_content_sleep_timer_duration">مدة</string>
+    <string name="settings_content_sleep_timer_last_song">تشغيل الأغنية الأخيرة حتى النهاية</string>
+
+    <string name="settings_header_stream">الدفق</string>
+
+    <string name="settings_content_playback">إستخدم أعلى جودة صوت ممكنة</string>
+
+    <string name="settings_content_notification">إشعار مفصول</string>
+
+    <string name="settings_header_data">معطيات</string>
+
+    <string name="settings_button_clear_cache">مسح الذاكرة المؤقتة</string>
+
+    <string name="settings_button_clear_favorites">مسح قوائم التشغيل</string>
+
+    <string name="settings_button_backup">انسخ</string>
+
+    <string name="settings_button_restore">استعيد</string>
+
+    <string name="settings_dialog_title_clear_playlists">مسح قوائم التشغيل</string>
+
+    <string name="settings_dialog_content_clear_playlists">هل أنت متأكد أنك تريد مسح محتوى قوائم التشغيل؟</string>
+
+    <string name="settings_dialog_title_backup">انسخ</string>
+
+    <string name="settings_dialog_content_backup_part1">انسخ قوائم التشغيل و الاعدادات على القرص الخارجي</string>
+
+    <string name="settings_dialog_content_backup_part2">هذه العملية تتجاوز أي نسخة احتياطية سابقة</string>
+
+    <string name="settings_dialog_title_restore">استعيد</string>
+
+    <string name="settings_dialog_content_restore_part1">استعيد قوائم التشغيل و الاعدادات من القرص الخارجي</string>
+
+    <string name="settings_dialog_content_restore_part2">سيتم إلغاء أي تغييرات غير محفوظة</string>
+
+    <string name="fragment_header_favorite_playlists_local">قوائم تشغيل محلية</string>
+
+    <string name="fragment_header_favorite_playlists_youtube">YouTube قوائم تشغيل</string>
+
+    <string name="fragment_playlists_placeholder">ابحث عن أشرطة الفيديو أو قوائم التشغيل لإضافتها إلى القوائم المفضلة</string>
+
+    <string name="fragment_playlists_results_videos">فيديو</string>
+
+    <string name="fragment_search_loading">تحميل</string>
+
+    <string name="fragment_search_no_results">لا توجد نتائج</string>
+
+    <string name="fragment_search_no_connection_part1">خدمة الانترنت غير موجودة</string>
+
+    <string name="fragment_search_no_connection_part2">يرجى المحاولة في وقت لحق</string>
+
+    <string name="fragment_search_placeholder">ابحث عن أشرطة الفيديو أو قوائم التشغيل</string>
+
+    <string name="fragment_search_results_views">views</string>
+
+    <string name="rate_dialog_title">قيم يوليسن</string>
+
+    <string name="rate_dialog_content">إذا كنت تتمتع في إستخدام يوليسن، يرجى أن تتوقف لحظة لتقييمها. شكراً على دعمك</string>
+
+    <string name="rate_dialog_button_rate">قيم</string>
+
+    <string name="rate_dialog_button_no">لا، شكرا</string>
+
+    <string name="rate_dialog_button_later">لاحقاً</string>
+
+    <string name="toast_service_stream_error">حدثت مشكلة. يرجى المحاولة في وقت لاحق</string>
+
+    <string name="dialog_favorites_new_playlist_title">خلق قائمة تشغيل</string>
+
+    <string name="toast_create_playlist_success">تم خلق قائمة التشغيل بنجاح</string>
+
+    <string name="dialog_favorites_no_playlist">إخلق قائمة تشغيل جديدة قبل إضافة الفيديو إلى قوائمك المفضلة</string>
+
+    <string name="dialog_button_delete">احذف</string>
+
+    <string name="dialog_options_delete_title">احذف قائمة التشغيل</string>
+
+    <string name="dialog_options_edit_title">تعديل قائمة التشغيل</string>
+
+    <string name="dialog_options_rename_title">إعادة تسمية قائمة التشغيل</string>
+
+    <string name="dialog_options_delete_warning">هل أنت متأكد أنك تريد حذف قائمة التشغيل؟</string>
+
+    <string name="share_status_loading">تحميل</string>
+
+    <string name="share_status_wrong_url">صيغة الرابط غير صالحة</string>
+
+    <string name="share_button_open_ulisten">افتح في يوليسن</string>
+
+    <string name="share_video_title">شارك</string>
+
+    <string name="share_video_content_part1">استمع إلى</string>
+
+    <string name="share_video_content_part2">عبر يوليسن.</string>
+
+    <!-- No string value for share_playlist_content -->
+
+    <string name="share_playlist_placeholder_processing">تجهيز ...</string>
+
+    <string name="share_playlist_placeholder_processing_download">تحميل الأشرطة قد يستغرق بعد الوقت</string>
+
+    <string name="share_playlist_placeholder_error">لا يمكن مشاركة قوائم تشغيل فارغة</string>
+
+    <string name="share_playlist_placeholder_error_server">خطأ في مشاركة قائمة التشغيل. يرجى المحاولة مرة أخرى.</string>
+</resources>

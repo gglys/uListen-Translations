@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+  <!-- Contributors -->
+  <!-- Mateus Millian -->
+
+<resources>
+
+    <string name="app_company">GooglyEyes</string>
+
+    <string name="actionbar_search_hint">Procurar no YouTube</string>
+
+    <string name="actionbar_search_button">Procurar</string>
+
+    <string name="actionbar_options_button">Opções de busca</string>
+
+    <string name="fragment_title_about">Sobre</string>
+
+    <string name="fragment_title_settings">Configurações</string>
+
+    <string name="fragment_title_search_videos">Buscar Vídeos</string>
+
+    <string name="fragment_title_search_playlists">Buscar Playlists</string>
+
+    <string name="fragment_title_content_playlists">Playlist</string>
+
+    <string name="fragment_title_favorite_playlists">Playlists</string>
+
+    <string name="menu_playlists">Playlists</string>
+
+    <string name="menu_settings">Configurações</string>
+
+    <string name="menu_share">Compartilhar</string>
+
+    <string name="menu_about">Sobre</string>
+
+    <string name="dialog_button_close">Fechar</string>
+
+    <string name="dialog_button_yes">Sim</string>
+
+    <string name="dialog_button_no">Não</string>
+
+    <string name="dialog_button_cancel">Cancelar</string>
+
+    <string name="dialog_button_backup">Backup</string>
+
+    <string name="dialog_button_restore">Restaurar</string>
+
+    <string name="dialog_button_save">Salvar</string>
+
+    <string name="dialog_button_add">Adicionar</string>
+
+    <string name="dialog_button_remove">Remover</string>
+
+    <string name="dialog_favorites_title">Opções da Playlist</string>
+
+    <string name="dialog_favorites_add_youtube_playlist">Adicione essa Playlist do YouTube às suas favoritas.</string>
+
+    <string name="dialog_favorites_playlist_already_added">Essa Playlist já foi adicionada às suas favoritas.</string>
+
+    <string name="dialog_options_title">Opções</string>
+
+    <string name="dialog_options_rename_hint">renomear playlist</string>
+
+    <string name="dialog_options_rename_header">Renomear</string>
+
+    <string name="toast_clear_cache">cache esvaziado</string>
+
+    <string name="toast_backup_successful">backup realizado com sucesso</string>
+
+    <string name="toast_backup_failed">backup falhou</string>
+
+    <string name="toast_restore_successful">restauração realizada com sucesso</string>
+
+    <string name="toast_restore_failed">restauração falhou</string>
+
+    <string name="toast_add_favorites_same_name">outra playlist com o mesmo nome já existe</string>
+
+    <string name="toast_add_favorites_playlist_updated_1">playlist atualizada com sucesso</string>
+
+    <string name="toast_add_favorites_playlist_updated_2">playlists atualizadas com sucesso</string>
+
+    <string name="toast_add_favorites_playlist_success">playlist adicionada com sucesso</string>
+
+    <string name="toast_remove_favorites_playlist_success">playlist removida com sucesso</string>
+
+    <string name="toast_rename_favorites_playlist_success">playlist renomeada com sucesso</string>
+
+    <string name="toast_no_changes">nenhuma alteração foi realizada</string>
+
+    <string name="toast_app_back_button_pressed">pressione voltar novamente para sair</string>
+
+    <string name="share_title">Compartilhar Usando</string>
+
+    <string name="share_app_content">Agora você pode economizar seu precioso plano de dados escutando vídeos do YouTube pelo uListen.</string>
+
+    <string name="share_app_facebook_caption">Disponível na Google Play</string>
+
+    <string name="about_app_terms_part1">Ao usar esse aplicativo você concorda com os</string>
+
+    <string name="about_app_terms_part2">Termos de Serviço</string>
+
+    <string name="about_button_feedback">Avaliar na Play Store</string>
+
+    <string name="about_button_email">Envie um email aos desenvolvedores</string>
+
+    <string name="about_hint_bug_report">Envie aos desenvolvedores, preferencialmente, emails para fazer sugestões e reportar bugs.</string>
+
+    <string name="about_more_apps">Mais por GooglyEyes</string>
+
+    <string name="about_translation_part1">Nós gostaríamos de agradecer a todos os que participaram (ou gostariam de participar) na</string>
+
+    <string name="about_translation_part2">tradução do uListen</string>
+
+    <string name="settings_header_style">Tema</string>
+
+    <string name="settings_content_theme">Usar tema escuro</string>
+
+    <string name="settings_header_stream">Stream</string>
+
+    <string name="settings_content_playback">Fazer streaming de alta qualidade quando possível</string>
+
+    <string name="settings_content_notification">Notificação descartável</string>
+
+    <string name="settings_header_data">Dados</string>
+
+    <string name="settings_button_clear_cache">Limpar Cache</string>
+
+    <string name="settings_button_clear_favorites">Limpar Playlists</string>
+
+    <string name="settings_button_backup">Backup</string>
+
+    <string name="settings_button_restore">Restaurar</string>
+
+    <string name="settings_dialog_title_clear_playlists">Limpar Playlists</string>
+
+    <string name="settings_dialog_content_clear_playlists">Você tem certeza que deseja deletar todas as suas playlists?</string>
+
+    <string name="settings_dialog_title_backup">Backup</string>
+
+    <string name="settings_dialog_content_backup_part1">Salve suas playlists e preferências do aplicativo na memória externa.</string>
+
+    <string name="settings_dialog_content_backup_part2">Essa operação vai substituir qualquer backup anterior.</string>
+
+    <string name="settings_dialog_title_restore">Restaurar</string>
+
+    <string name="settings_dialog_content_restore_part1">Restaure suas playlists e preferências do aplicativo.</string>
+
+    <string name="settings_dialog_content_restore_part2">Configurações que não foram salvas serão descartadas.</string>
+
+    <string name="fragment_header_favorite_playlists_local">Playlists Locais</string>
+
+    <string name="fragment_header_favorite_playlists_youtube">Playlists do YouTube</string>
+
+    <string name="fragment_playlists_placeholder">Procure por playlists e vídeos do YouTube e adicione aos seus favoritos.</string>
+
+    <string name="fragment_playlists_results_videos">vídeos</string>
+
+    <string name="fragment_search_loading">Pesquisando</string>
+
+    <string name="fragment_search_no_results">Nenhum resultado encontrado</string>
+
+    <string name="fragment_search_no_connection_part1">Sem conexão</string>
+
+    <string name="fragment_search_no_connection_part2">Por favor, tente novamente</string>
+
+    <string name="fragment_search_placeholder">Procure no Youtube por playlists e vídeos e comece a ouvir</string>
+
+    <string name="fragment_search_results_views">visualizações</string>
+
+    <string name="rate_dialog_title">Avaliar uListen</string>
+
+    <!-- Linguagem levemente informal para aproximação com o público que utiliza o aplicativo. Serve como um apelo maior para o usuário votar. -->
+    <string name="rate_dialog_content">Se você curtiu o uListen, tire um segundo para avaliar a gente. Obrigado pelo suporte :)</string>
+
+    <string name="rate_dialog_button_rate">Avaliar</string>
+
+    <string name="rate_dialog_button_no">Não, obrigado</string>
+
+    <string name="rate_dialog_button_later">Depois</string>
+
+    <string name="toast_service_stream_error">erro na reprodução. por favor, tente novamente</string>
+
+    <string name="dialog_favorites_new_playlist_title">Criar uma nova playlist</string>
+
+    <string name="toast_create_playlist_success">playlist criada com sucesso</string>
+
+    <string name="dialog_favorites_no_playlist">Crie uma nova playlist antes de adicionar um vídeo aos seus favoritos</string>
+
+    <string name="dialog_button_delete">Deletar</string>
+
+    <string name="dialog_options_delete_title">Deletar playlist</string>
+
+    <string name="dialog_options_edit_title">Editar playlist</string>
+
+    <string name="dialog_options_rename_title">Renomear playlist</string>
+
+    <string name="dialog_options_delete_warning">Você tem certeza que deseja deletar essa playlist?</string>
+
+    <string name="share_status_loading">Carregando</string>
+
+    <string name="share_status_wrong_url">Formato da URL inválido</string>
+
+    <string name="share_button_open_ulisten">Abrir no uListen</string>
+
+    <string name="share_video_title">Compartilhar</string>
+
+    <string name="share_video_content_part1">Ouça</string>
+
+    <string name="share_video_content_part2">via uListen.</string>
+
+    <string name="share_playlist_content">playlist</string>
+
+    <string name="share_playlist_placeholder_processing">Processando...</string>
+
+    <string name="share_playlist_placeholder_processing_download">Processando vídeos. Isso pode demorar um pouquinho para terminar.</string>
+
+    <string name="share_playlist_placeholder_error">Não é possível compartilhar playlists vazias</string>
+
+    <string name="share_playlist_placeholder_error_server">Não foi possível compartilhar a playlist. Tente novamente mais tarde.</string>
+
+    <string name="menu_upgrade">Versão sem publicidade</string>
+
+    <string name="settings_content_doubleback">Pressione voltar duas vezes para sair</string>
+</resources>

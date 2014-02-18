@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+  <!-- Contributors -->
+  <!-- Alpay Can Şener -->
+
+<resources>
+
+    <string name="app_company">GooglyEyes</string>
+
+    <string name="actionbar_search_hint">YouTube\'da Ara</string>
+
+    <string name="actionbar_search_button">Arama</string>
+
+    <string name="actionbar_options_button">Arama ayarları</string>
+
+    <string name="fragment_title_about">Hakkında</string>
+
+    <string name="fragment_title_settings">Ayarlar</string>
+
+    <string name="fragment_title_search_videos">Video Ara</string>
+
+    <string name="fragment_title_search_playlists">Çalma Listesi Ara</string>
+
+    <string name="fragment_title_content_playlists">Çalma Listesi</string>
+
+    <string name="fragment_title_favorite_playlists">Çalma Listesi</string>
+
+    <string name="menu_playlists">Çalma Listeleri</string>
+
+    <string name="menu_settings">Ayarlar</string>
+
+    <string name="menu_share">Paylaş</string>
+
+    <string name="menu_about">Hakkında</string>
+
+    <string name="dialog_button_close">Kapat</string>
+
+    <string name="dialog_button_yes">Evet</string>
+
+    <string name="dialog_button_no">Hayır</string>
+
+    <string name="dialog_button_cancel">İptal</string>
+
+    <string name="dialog_button_backup">Yedekle</string>
+
+    <string name="dialog_button_restore">Geri Yükle</string>
+
+    <string name="dialog_button_save">Kaydet</string>
+
+    <string name="dialog_button_add">Ekle</string>
+
+    <string name="dialog_button_remove">Kaldır</string>
+
+    <string name="dialog_favorites_title">Çalma Listesi ayarları</string>
+
+    <string name="dialog_favorites_add_youtube_playlist">YouTube çalma listesini favorilere ekle.</string>
+
+    <string name="dialog_favorites_playlist_already_added">Bu çalma listesi zaten favorilerinize eklenmiş.</string>
+
+    <string name="dialog_options_title">Ayarlar</string>
+
+    <string name="dialog_options_rename_hint">çalma listesini yeniden adlandır</string>
+
+    <string name="dialog_options_rename_header">Yeniden adlandır</string>
+
+    <string name="toast_clear_cache">önbellek temizlendi</string>
+
+    <string name="toast_backup_successful">yedekleme tamamlandı</string>
+
+    <string name="toast_backup_failed">geri yükleme başarısız</string>
+
+    <string name="toast_restore_successful">geri yükleme başarılı</string>
+
+    <string name="toast_restore_failed">geri yükleme başarısız</string>
+
+    <string name="toast_add_favorites_same_name">bu isimde başka bir çalma listesi mevcut</string>
+
+    <string name="toast_add_favorites_playlist_updated_1">çalma listesi güncellendi</string>
+
+    <string name="toast_add_favorites_playlist_updated_2">çalma listesi güncellendi</string>
+
+    <string name="toast_add_favorites_playlist_success">çalma listesi güncellendi</string>
+
+    <string name="toast_remove_favorites_playlist_success">çalma listesi kaldırıldı</string>
+
+    <string name="toast_rename_favorites_playlist_success">çalma listesi yeniden adlandırıldı</string>
+
+    <string name="toast_no_changes">hiç birşey değişmedi</string>
+
+    <string name="toast_app_back_button_pressed">çıkmak için tekrar geri tuşuna basın</string>
+
+    <string name="share_title">Paylaş</string>
+
+    <string name="share_app_content">YouTube videolarını dinlemek için uListen\'ı Android cihazınız üzerinden kullanarak değerli zamanınızdan ve internet kotanızdan tasarruf edebilirsiniz.</string>
+
+    <string name="share_app_facebook_caption">Google Play üzerinden İndirilebilir</string>
+
+    <string name="about_app_terms_part1">Bu uygulamayı kullanarak</string>
+
+    <string name="about_app_terms_part2">Hizmet Şartlarını</string>
+
+    <string name="about_button_feedback">Play Store üzerinden Oy ver</string>
+
+    <string name="about_button_email">Geliştiricilere email yolla</string>
+
+    <string name="about_hint_bug_report">Geliştiricilere hatalar ve öneriler için mail atabilirsiniz.</string>
+
+    <string name="about_more_apps">GooglyEyes\'ın Diğer Uygulamaları</string>
+
+    <string name="about_translation_part1">uListen\'ı</string>
+
+    <string name="about_translation_part2">farklı dillere çevirmemizde bize yardımcı olan</string>
+
+    <string name="settings_header_style">Tasarım</string>
+
+    <string name="settings_content_theme">Koyu renk temayı kullan</string>
+
+    <string name="settings_header_stream">Akış</string>
+
+    <string name="settings_content_playback">Mümkünse yüksek kalitede müzik dinle</string>
+
+    <string name="settings_content_notification">Bildirim barındaki uListen yoksayılabilir</string>
+
+    <string name="settings_header_data">Veri</string>
+
+    <string name="settings_button_clear_cache">Önbelleği Temizle</string>
+
+    <string name="settings_button_clear_favorites">Çalma Listelerini Temizle</string>
+
+    <string name="settings_button_backup">Yedekle</string>
+
+    <string name="settings_button_restore">Geri Yükle</string>
+
+    <string name="settings_dialog_title_clear_playlists">Çalma Listelerini Temizle</string>
+
+    <string name="settings_dialog_content_clear_playlists">Çalma listesi içeriğini temizlemek istediğinizden emin misiniz?</string>
+
+    <string name="settings_dialog_title_backup">Yedekle</string>
+
+    <string name="settings_dialog_content_backup_part1">Çalma listeleriniz ve uygulama ayarlarınız harici hafızaya yedeklenecek.</string>
+
+    <string name="settings_dialog_content_backup_part2">Bu işlem önceki yedeklerinin silinmesine neden olur.</string>
+
+    <string name="settings_dialog_title_restore">Geri Yükle</string>
+
+    <string name="settings_dialog_content_restore_part1">Çalma listeleriniz ve uygulama ayarlarınız geri yüklenecek.</string>
+
+    <string name="settings_dialog_content_restore_part2">Kaydedilmeyen tüm değişiklikler yok sayılır.</string>
+
+    <string name="fragment_header_favorite_playlists_local">Çalma Listelerim</string>
+
+    <string name="fragment_header_favorite_playlists_youtube">YouTube Çalma Listeleri</string>
+
+    <string name="fragment_playlists_placeholder">Videoları ve çalma listelerini favorilerine eklemek için YouTube\'da arama yap.</string>
+
+    <string name="fragment_playlists_results_videos">video</string>
+
+    <string name="fragment_search_loading">Yükleniyor</string>
+
+    <string name="fragment_search_no_results">Sonuç bulunamadı</string>
+
+    <string name="fragment_search_no_connection_part1">İnternet Bağlantısı Yok</string>
+
+    <string name="fragment_search_no_connection_part2">Lütfen daha sonra tekrar deneyin</string>
+
+    <string name="fragment_search_placeholder">Videoları ve çalma listelerini dinlemek için YouTube\'da arama yap.</string>
+
+    <string name="fragment_search_results_views">görüntüleme</string>
+
+    <string name="rate_dialog_title">uListen\'a Oy Ver</string>
+
+    <string name="rate_dialog_content">uListen`ı kullanmaktan hoşlanıyorsanız, bize oy vermek için 1 dakikanızı alabilir miyiz? Desteğiniz için teşekkürler :)</string>
+
+    <string name="rate_dialog_button_rate">Oy Ver</string>
+
+    <string name="rate_dialog_button_no">Hayır, teşekkürler</string>
+
+    <string name="rate_dialog_button_later">Daha sonra</string>
+
+    <string name="toast_service_stream_error">bağlantı hatası. lütfen daha sonra tekrar deneyin</string>
+
+    <string name="dialog_favorites_new_playlist_title">Yeni çalma listesi oluştur</string>
+
+    <string name="toast_create_playlist_success">çalma listesi oluşturuldu</string>
+
+    <string name="dialog_favorites_no_playlist">Videoları favorilere eklemeden önce yeni bir çalma listesi oluştur</string>
+
+    <string name="dialog_button_delete">Sil</string>
+
+    <string name="dialog_options_delete_title">Çalma listesini sil</string>
+
+    <string name="dialog_options_edit_title">Çalma listesini düzenle</string>
+
+    <string name="dialog_options_rename_title">Çalma listesini yeniden adlandır</string>
+
+    <string name="dialog_options_delete_warning">Çalma listesini silmek istediğinizden emin misiniz ?</string>
+
+    <string name="share_status_loading">Yükleniyor</string>
+
+    <string name="share_status_wrong_url">Geçersiz URL</string>
+
+    <string name="share_button_open_ulisten">uListen ile aç</string>
+
+    <string name="share_video_title">Paylaş</string>
+
+    <string name="share_video_content_part1">uListen</string>
+
+    <string name="share_video_content_part2">ile Dinle.</string>
+
+    <string name="share_playlist_content">çalma listesi</string>
+
+    <string name="share_playlist_placeholder_processing">İşleniyor...</string>
+
+    <string name="share_playlist_placeholder_processing_download">Videolar yükleniyor. Bu işlem biraz zaman alabilir.</string>
+
+    <string name="share_playlist_placeholder_error">Boş çalma listeleri paylaşılamaz</string>
+
+    <string name="share_playlist_placeholder_error_server">Çalma listesi paylaşılamadı. Lütfen daha sonra tekrar deneyin.</string>
+
+    <string name="about_app_terms_part3">kabul etmiş olursun</string>
+
+    <string name="about_translation_part3">herkese teşekkür ederiz</string>
+
+    <string name="menu_upgrade">Reklamsız versiyona yükselt</string>
+
+    <string name="settings_content_doubleback">Çıkmak için geri tuşuna 2 kere dokun</string>
+
+    <string name="toast_sleep_timer_started">uyku zamanlayıcısı başlatıldı</string>
+
+    <string name="toast_sleep_timer_finished">uyku zamanlayıcısı durduruldu</string>
+
+    <string name="toast_sleep_timer_remaining">uykuya kalan:</string>
+
+    <string name="toast_share_successful">Paylaşma başarılı</string>
+
+    <string name="toast_share_error1">Paylaşma başarısız</string>
+
+    <string name="toast_share_error2">Paylaşma başarısız: gerekli izinler sağlanamadı</string>
+
+    <string name="settings_header_sleep_timer">Uyku Zamanlayıcısı</string>
+
+    <string name="settings_content_sleep_timer_duration">Süre</string>
+
+    <string name="settings_content_sleep_timer_last_song">Son şarkıyı sonuna kadar çal</string>
+</resources>

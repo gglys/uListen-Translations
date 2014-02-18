@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+  <!-- Contributors -->
+  <!-- Lukáš Hajdu -->
+
+<resources>
+
+    <string name="app_name">uListen</string>
+
+    <string name="app_company">GooglyEyes</string>
+
+    <string name="actionbar_search_hint">Prehľadávať YouTube</string>
+
+    <string name="actionbar_search_button">Hľadať</string>
+
+    <string name="actionbar_options_button">Možnosti vyhľadávania</string>
+
+    <string name="fragment_title_about">O aplikácii</string>
+
+    <string name="fragment_title_settings">Nastavenia</string>
+
+    <string name="fragment_title_search_videos">Hľadať videá</string>
+
+    <string name="fragment_title_search_playlists">Hľadať zoznamy skladieb</string>
+
+    <string name="fragment_title_content_playlists">Zoznam skladieb</string>
+
+    <string name="fragment_title_favorite_playlists">Zoznamy skladieb</string>
+
+    <string name="menu_playlists">Zoznamy skladieb</string>
+
+    <string name="menu_settings">Nastavenia</string>
+
+    <string name="menu_share">Zdieľať</string>
+    
+    <string name="menu_upgrade">Zakúpiť verziu bez reklám</string>
+
+    <string name="menu_about">O aplikácii</string>
+
+    <string name="dialog_button_close">Zatvoriť</string>
+
+    <string name="dialog_button_yes">Áno</string>
+
+    <string name="dialog_button_no">Nie</string>
+
+    <string name="dialog_button_cancel">Storno</string>
+
+    <string name="dialog_button_backup">Záloha</string>
+
+    <string name="dialog_button_restore">Obnova</string>
+
+    <string name="dialog_button_save">Uložiť</string>
+
+    <string name="dialog_button_add">Pridať</string>
+
+    <string name="dialog_button_remove">Odstrániť</string>
+
+    <string name="dialog_favorites_title">Možnosti zoznamu skladieb</string>
+
+    <string name="dialog_favorites_add_youtube_playlist">Pridajte si tento zoznam skladieb YouTube do obľúbených.</string>
+
+    <string name="dialog_favorites_playlist_already_added">Tento zoznam skladieb už je uložený v obľubených.</string>
+
+    <string name="dialog_options_title">Možnosti</string>
+
+    <string name="dialog_options_rename_hint">premenovať zoznam skladieb</string>
+
+    <string name="dialog_options_rename_header">Premenovať</string>
+
+    <string name="toast_clear_cache">vyrovnávacia pamäť vymazaná</string>
+
+    <string name="toast_backup_successful">Všetky dáta boli zazálohované v poriadku.</string>
+
+    <string name="toast_backup_failed">Chyba zálohy</string>
+
+    <string name="toast_restore_successful">Všetky dáta boli obnovené v poriadku</string>
+
+    <string name="toast_restore_failed">Chyba obnovy</string>
+
+    <string name="toast_add_favorites_same_name">Zoznam skladieb s takýmto názvom už existuje</string>
+
+    <string name="toast_add_favorites_playlist_updated_1">Zoznam skladieb bol úspešne aktualizovaný</string>
+
+    <string name="toast_add_favorites_playlist_updated_2">Zoznam skladieb bol úspešne aktualizovaný</string>
+
+    <string name="toast_add_favorites_playlist_success">Zoznam skladieb bol úspešne pridaný</string>
+
+    <string name="toast_remove_favorites_playlist_success">Zoznam skladieb bol úspešne odstránený</string>
+
+    <string name="toast_rename_favorites_playlist_success">Zoznam skladieb bol úspešne premenovaný</string>
+
+    <string name="toast_no_changes">Nič sa nezmenilo</string>
+
+    <string name="toast_app_back_button_pressed">Stlačte Späť ešte raz, ak chcete aplikáciu ukončiť</string>
+
+    <string name="share_title">Zdieľať použitím</string>
+
+    <string name="share_app_content">Odteraz môžete ušetriť čas a spotrebu dát počúvaním videí z YouTubeu cez uListen.</string>
+
+    <string name="share_app_facebook_caption">Dostupné v Obchode Play</string>
+
+    <string name="about_app_terms_part1">Používaním aplikácie súhlasíte s</string>
+
+    <string name="about_app_terms_part2">Podmienkami použitia</string>
+
+    <string name="about_button_feedback">Hodnotiť v Obchode Play</string>
+
+    <string name="about_button_email">Odoslať e-mail vývojárom</string>
+
+    <string name="about_hint_bug_report">Prednostne posielajte emaily s bug reportmi a návrhmi.</string>
+
+    <string name="about_more_apps">Viac od GooglyEyes</string>
+
+    <string name="about_translation_part1">Chceme poďakovať všetkým, ktorí sa podieľali, alebo sa chcú podieľať na</string>
+
+    <string name="about_translation_part2">preklade uListen</string>
+
+    <string name="settings_header_style">Vzhľad</string>
+
+    <string name="settings_content_theme">Použiť tmavú tému</string>
+
+    <string name="settings_header_stream">Stream</string>
+
+    <string name="settings_content_playback">Streamovať vysokokvalitné audio, ak je to možné</string>
+
+    <string name="settings_content_notification">Neodstrániteľné upozornenie</string>
+
+    <string name="settings_header_data">Údaje</string>
+
+    <string name="settings_button_clear_cache">Vymazať vyrovnávaciu pamäť</string>
+
+    <string name="settings_button_clear_favorites">Vymazať zoznamy skladieb</string>
+
+    <string name="settings_button_backup">Záloha</string>
+
+    <string name="settings_button_restore">Obnova</string>
+
+    <string name="settings_dialog_title_clear_playlists">Vymazať zoznamy skladieb</string>
+
+    <string name="settings_dialog_content_clear_playlists">Ste si istý, že chcete vymazať obsah zoznamov skladieb?</string>
+
+    <string name="settings_dialog_title_backup">Záloha</string>
+
+    <string name="settings_dialog_content_backup_part1">Zálohujte si svoje zoznamy skladieb a nastavenia na externé úložisko.</string>
+
+    <string name="settings_dialog_content_backup_part2">Táto operácia prepíše všetky predošlé zálohy.</string>
+
+    <string name="settings_dialog_title_restore">Obnova</string>
+
+    <string name="settings_dialog_content_restore_part1">Obnoviť zoznamy skladieb a nastavenia.</string>
+
+    <string name="settings_dialog_content_restore_part2">Všetky neuložené zmeny budú zrušené.</string>
+
+    <string name="fragment_header_favorite_playlists_local">Miestne zoznamy skladieb</string>
+
+    <string name="fragment_header_favorite_playlists_youtube">Zoznamy skladieb YouTube</string>
+
+    <string name="fragment_playlists_placeholder">Prehľadávať Youtube na pridanie videí a zoznamov skladieb do obľúbených</string>
+
+    <string name="fragment_playlists_results_videos">videá</string>
+
+    <string name="fragment_search_loading">Hľadanie</string>
+
+    <string name="fragment_search_no_results">Žiadne výsledky hľadania</string>
+
+    <string name="fragment_search_no_connection_part1">Žiadne internetové pripojenie</string>
+
+    <string name="fragment_search_no_connection_part2">Skúste to znova neskôr</string>
+
+    <string name="fragment_search_placeholder">Prehľadávať zoznamy skladieb a videá YouTubeu</string>
+
+    <string name="fragment_search_results_views">videní</string>
+
+    <string name="rate_dialog_title">Hodnotiť uListen</string>
+
+    <string name="rate_dialog_content">Ak máte radi uListen, prosím, nájdite si čas na jeho ohodnotenie. Ďakujeme za podporu.</string>
+
+    <string name="rate_dialog_button_rate">Hodnotiť</string>
+
+    <string name="rate_dialog_button_no">Nie, vďaka</string>
+
+    <string name="rate_dialog_button_later">Neskôr</string>
+
+    <string name="toast_service_stream_error">Chyba streamu. Skúste to znova neskôr</string>
+
+    <string name="dialog_favorites_new_playlist_title">Vytvoriť nový zoznam skladieb</string>
+
+    <string name="toast_create_playlist_success">Zoznam skladieb bol úspešne vytvorený</string>
+
+    <string name="dialog_favorites_no_playlist">Musíte vytvoriť zoznam skladieb predtým, než pridáte video do obľúbených</string>
+
+    <string name="dialog_button_delete">Vymazať</string>
+
+    <string name="dialog_options_delete_title">Vymazať zoznam skladieb</string>
+
+    <string name="dialog_options_edit_title">Upraviť zoznam skladieb</string>
+
+    <string name="dialog_options_rename_title">Premenovať zoznam skladieb</string>
+
+    <string name="dialog_options_delete_warning">Ste si istý, že chcete vymazať tento zoznam skladieb?</string>
+
+    <string name="share_status_loading">Načítava sa</string>
+
+    <string name="share_status_wrong_url">Nesprávny formát adresy URL</string>
+
+    <string name="share_button_open_ulisten">Otvoriť cez uListen</string>
+
+    <string name="share_video_title">Zdieľať</string>
+
+    <string name="share_video_content_part1">Počúvať</string>
+
+    <string name="share_video_content_part2">cez uListen.</string>
+
+    <string name="share_playlist_content">zoznam skladieb</string>
+
+    <string name="share_playlist_placeholder_processing">Prebieha spracovanie...</string>
+
+    <string name="share_playlist_placeholder_processing_download">Prebieha spracovanie videí. Táto operácia môže chvíľu trvať.</string>
+
+    <string name="share_playlist_placeholder_error">Nie je možné zdieľať prázdne zoznamy skladieb</string>
+
+    <string name="share_playlist_placeholder_error_server">Nie je možné zdieľať zoznam skladieb. Skúste to znova neskôr.</string>
+
+    <!-- No string value for about_app_terms_part3 -->
+
+    <!-- No string value for about_translation_part3 -->
+</resources>
