@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+  <!-- Contributors -->
+  <!-- 米沢達人 -->
+
+<resources>
+
+    <string name="app_company">GooglyEyes</string>
+
+    <string name="actionbar_search_hint">YouTubeを検索</string>
+
+    <string name="actionbar_search_button">検索</string>
+
+    <string name="actionbar_options_button">検索オプション</string>
+
+    <string name="fragment_title_about">About</string>
+
+    <string name="fragment_title_settings">設定</string>
+
+    <string name="fragment_title_search_videos">動画を検索</string>
+
+    <string name="fragment_title_search_playlists">プレイリスト検索</string>
+
+    <string name="fragment_title_content_playlists">プレイリスト</string>
+
+    <string name="fragment_title_favorite_playlists">プレイリスト</string>
+
+    <string name="menu_playlists">プレイリスト</string>
+
+    <string name="menu_settings">設定</string>
+
+    <string name="menu_share">共有</string>
+
+    <string name="menu_about">About</string>
+
+    <string name="dialog_button_close">閉じる</string>
+
+    <string name="dialog_button_yes">はい</string>
+
+    <string name="dialog_button_no">いいえ</string>
+
+    <string name="dialog_button_cancel">キャンセル</string>
+
+    <string name="dialog_button_backup">バックアップ</string>
+
+    <string name="dialog_button_restore">リストア</string>
+
+    <string name="dialog_button_save">保存</string>
+
+    <string name="dialog_button_add">追加</string>
+
+    <string name="dialog_button_remove">削除</string>
+
+    <string name="dialog_favorites_title">プレイリスト設定</string>
+
+    <string name="dialog_favorites_add_youtube_playlist">このYouTubeプレイリストをお気に入りに追加します。</string>
+
+    <string name="dialog_favorites_playlist_already_added">このプレイリストは既にお気に入りに保存されています。</string>
+
+    <string name="dialog_options_title">オプション</string>
+
+    <string name="dialog_options_rename_hint">プレイリストの名前を変更</string>
+
+    <string name="dialog_options_rename_header">名前を変更</string>
+
+    <string name="toast_clear_cache">キャッシュを削除しました</string>
+
+    <string name="toast_backup_successful">バックアップしました</string>
+
+    <string name="toast_backup_failed">バックアップに失敗しました</string>
+
+    <string name="toast_restore_successful">リストアしました</string>
+
+    <string name="toast_restore_failed">リストアに失敗しました</string>
+
+    <string name="toast_add_favorites_same_name">同じ名前のプレイリストがすでに存在します</string>
+
+    <string name="toast_add_favorites_playlist_updated_1">プレイリストの更新の成功しました</string>
+
+    <string name="toast_add_favorites_playlist_updated_2">プレイリストの更新の成功しました</string>
+
+    <string name="toast_add_favorites_playlist_success">プレイリストを追加しました</string>
+
+    <string name="toast_remove_favorites_playlist_success">プレイリストを削除しました</string>
+
+    <string name="toast_rename_favorites_playlist_success">プレイリストの名前を変更しました</string>
+
+    <string name="toast_no_changes">何も変更されていません</string>
+
+    <string name="toast_app_back_button_pressed">もう一度押すと終了します</string>
+
+    <string name="share_title">共有...</string>
+
+    <string name="share_app_content">uListen経由であなたのAndroidデバイス上でYouTubeの動画を聞くことによって、時間と貴重な帯域幅を節約することができます。</string>
+
+    <string name="share_app_facebook_caption">Google Play にて配信中</string>
+
+    <string name="about_app_terms_part1">このアプリケーションを使用することにより、利用規約に同意するものとします</string>
+
+    <string name="about_app_terms_part2">[利用規約]</string>
+
+    <string name="about_button_feedback">Play ストアで評価</string>
+
+    <string name="about_button_email">開発者にメール</string>
+
+    <string name="about_hint_bug_report">よろしければ、バグレポートや提案のために開発者にメールを送ってください。</string>
+
+    <string name="about_more_apps">GooglyEyesの他のアプリ</string>
+
+    <string name="about_translation_part1">翻訳に参加してくださった方々に感謝いたします。</string>
+
+    <string name="about_translation_part2">uListen を翻訳</string>
+
+    <string name="settings_header_style">スタイル</string>
+
+    <string name="settings_content_theme">暗いテーマを使用</string>
+
+    <string name="settings_header_stream">ストリーム</string>
+
+    <string name="settings_content_playback">利用可能な場合は高音質のストリームを行う</string>
+
+    <string name="settings_content_notification">削除可能な通知</string>
+
+    <string name="settings_header_data">データ</string>
+
+    <string name="settings_button_clear_cache">キャッシュの削除</string>
+
+    <string name="settings_button_clear_favorites">プレイリストの削除</string>
+
+    <string name="settings_button_backup">バックアップ</string>
+
+    <string name="settings_button_restore">リストア</string>
+
+    <string name="settings_dialog_title_clear_playlists">プレイリストの削除</string>
+
+    <string name="settings_dialog_content_clear_playlists">本当にプレイリストを削除してもよろしいですか？</string>
+
+    <string name="settings_dialog_title_backup">バックアップ</string>
+
+    <string name="settings_dialog_content_backup_part1">外部ストレージにプレイリストと設定をバックアップします。</string>
+
+    <string name="settings_dialog_content_backup_part2">この操作は以前のバックアップを上書きします。</string>
+
+    <string name="settings_dialog_title_restore">リストア</string>
+
+    <string name="settings_dialog_content_restore_part1">プレイリストと設定をリストアします。</string>
+
+    <string name="settings_dialog_content_restore_part2">保存されていない変更は破棄されます。</string>
+
+    <string name="fragment_header_favorite_playlists_local">ローカルプレイリスト</string>
+
+    <string name="fragment_header_favorite_playlists_youtube">YouTube プレイリスト</string>
+
+    <string name="fragment_playlists_placeholder">YouTubeで動画やプレイリストを検索してお気に入りに追加しましょう</string>
+
+    <string name="fragment_playlists_results_videos">動画</string>
+
+    <string name="fragment_search_loading">検索中</string>
+
+    <string name="fragment_search_no_results">見つかりませんでした</string>
+
+    <string name="fragment_search_no_connection_part1">インターネット接続がありません</string>
+
+    <string name="fragment_search_no_connection_part2">後でやり直してみてください</string>
+
+    <string name="fragment_search_placeholder">YouTubeで動画やプレイリストを検索してストリームしましょう</string>
+
+    <string name="fragment_search_results_views">回再生</string>
+
+    <string name="rate_dialog_title">uListen を評価</string>
+
+    <string name="rate_dialog_content">uListen を楽しんでいますか？お時間があればuListen を評価してください。
+あなたの支援に感謝します :)</string>
+
+    <string name="rate_dialog_button_rate">評価する</string>
+
+    <string name="rate_dialog_button_no">結構です</string>
+
+    <string name="rate_dialog_button_later">あとで</string>
+
+    <string name="toast_service_stream_error">ストリームエラー、後でやり直してください</string>
+
+    <string name="dialog_favorites_new_playlist_title">新しいプレイリストを作成</string>
+
+    <string name="toast_create_playlist_success">プレイリストを作成しました</string>
+
+    <string name="dialog_favorites_no_playlist">動画をお気に入りに追加する前にプレイリストを作成してください</string>
+
+    <string name="dialog_button_delete">削除</string>
+
+    <string name="dialog_options_delete_title">プレイリストを削除</string>
+
+    <string name="dialog_options_edit_title">プレイリストを編集</string>
+
+    <string name="dialog_options_rename_title">プレイリストの名前を変更</string>
+
+    <string name="dialog_options_delete_warning">本当にこのプレイリストを削除してもよろしいですか？</string>
+
+    <string name="share_status_loading">読み込み中</string>
+
+    <string name="share_status_wrong_url">URLの形式が正しくありません</string>
+
+    <string name="share_button_open_ulisten">uListen で開く</string>
+
+    <string name="share_video_title">共有</string>
+
+    <string name="share_video_content_part1">uListen で</string>
+
+    <string name="share_video_content_part2">を聴く</string>
+
+    <string name="share_playlist_content">プレイリスト</string>
+
+    <string name="share_playlist_placeholder_processing">処理中...</string>
+
+    <string name="share_playlist_placeholder_processing_download">ビデオを処理しています。完了までしばらく時間がかかる場合があります。</string>
+
+    <string name="share_playlist_placeholder_error">空のプレイリストは共有できません</string>
+
+    <string name="share_playlist_placeholder_error_server">プレイリストを共有できませんでした。
+後でやり直してください。</string>
+
+    <string name="menu_upgrade">広告なしバージョン</string>
+
+    <string name="settings_content_doubleback">戻るを2回押して終了</string>
+
+    <string name="toast_sleep_timer_started">スリープタイマーが開始されました</string>
+
+    <string name="toast_sleep_timer_finished">スリープタイマーが終了しました</string>
+
+    <string name="toast_sleep_timer_remaining">スリープまで:</string>
+
+    <string name="toast_share_successful">共有しました</string>
+
+    <string name="toast_share_error1">共有エラー</string>
+
+    <string name="toast_share_error2">共有エラー: パーミッションがありません</string>
+
+    <string name="settings_header_sleep_timer">スリープタイマー</string>
+
+    <string name="settings_content_sleep_timer_duration">時間</string>
+
+    <string name="settings_content_sleep_timer_last_song">タイマー終了時に曲が終わるまで再生する</string>
+</resources>
